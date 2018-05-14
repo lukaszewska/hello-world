@@ -1,5 +1,6 @@
 # hello-world
-My first trial repository
+My first trial repository.
+
 Hello! 
 I'm Kachna from Poland. 
 I really like long walks in the wild, dogs and cats, noodles with strawberries and of course programming.
